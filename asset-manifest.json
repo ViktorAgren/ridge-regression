@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ridge-regression/static/css/main.73957eb8.css",
+    "main.js": "/ridge-regression/static/js/main.6abfa933.js",
+    "index.html": "/ridge-regression/index.html",
+    "main.73957eb8.css.map": "/ridge-regression/static/css/main.73957eb8.css.map",
+    "main.6abfa933.js.map": "/ridge-regression/static/js/main.6abfa933.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73957eb8.css",
+    "static/js/main.6abfa933.js"
+  ]
+}
